@@ -7,5 +7,5 @@ npm start
 ```
 ## serving through php built-in
 ```
-php -S localhost:3000 -t /absolute/path/to/public
+php -S localhost:3000 -t public
 ```
